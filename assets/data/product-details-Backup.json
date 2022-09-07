@@ -1,0 +1,48 @@
+[
+    {
+        "id": "1",
+        "imgList": [
+            {
+                "url": "./assets/img/product-d-img.png"
+            },
+            {
+                "url": "./assets/img/product-d-img-02.png"
+            },
+            {
+                "url": "./assets/img/product-d-img-03.png"
+            },
+            {
+                "url": "./assets/img/product-d-img-04.png"
+            }
+        ],
+        "CatClass": "Cat Class: 300-2999",
+        "DescriptHeading": "2013 Skyjack SJ3219 Scissor Lift",
+        "Des_TagList": [
+            "CES",
+            "LOW INTEREST FINANCING"
+        ],
+        "Des_para": [
+            "When you need ample working space and lifting capacity, this is",
+            "                the most efficient, productive and safe scissor lift available.",
+            "                It is durable, lightweight and narrow. It is also equipped with",
+            "                pothole guards to protect the equipment and operator from",
+            "                tipping, and will fit through a single-size doorway.",
+            "                <br>",
+            "              ",
+            "             ",
+            "                Actual product may differ from item description and may not be",
+            "                available in your area. Please contact your sales rep for more",
+            "                information.",
+            "                <br>",
+            "              ",
+            "                When you need ample working space and lifting capacity, this is",
+            "                the most efficient, productive and safe scissor lift available.",
+            "                It is durable, lightweight and narrow. It is also equipped with",
+            "                pothole guards to protect the equipment and operator from",
+            "                tipping, and will fit through a single-size doorway."
+        ],
+        "MeterReading": "150 Hours",
+        "Serial#": "220XXXXX",
+        "ItemDetails": "19 ft Max Lift Height, 550 lb Max Weight Capacity, Platform Extension, Power to Platform, Solid Non-Marking Tires"
+    }
+]
